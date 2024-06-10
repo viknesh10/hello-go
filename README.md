@@ -24,3 +24,7 @@ go run hello-world.go
 go mod init <directory-name>
 ```
 - This will initialise a go.mod package inside the directory
+- Adding external packages to the module:
+```
+go get <package-name>
+```
