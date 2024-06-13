@@ -9,6 +9,7 @@ import (
 func main() {
 	// Println -> prints in *new line*
 	fmt.Println("Hello, World")
-    fmt.Println(quote.Go())
-    variables()
+	fmt.Println(quote.Go())
+	variables()
+	type_conversion()
 }
