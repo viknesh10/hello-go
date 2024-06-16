@@ -12,4 +12,5 @@ func main() {
 	fmt.Println(quote.Go())
 	variables()
 	type_conversion()
+	primitives()
 }
